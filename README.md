@@ -16,6 +16,9 @@
 - 🎓 Bacharelado em Sistemas de Informação - Instituto Superior do Litoral do Paraná (ISULPAR)
 - 💻 Especialização em Desenvolvimento de Aplicativos Móveis - Pontifícia Universidade Católica do Paraná (PUCPR)
 
+
+
+
 ### 🚀 Tecnologias, Ferramentas e Linguagens
 
 <code><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>

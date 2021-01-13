@@ -10,13 +10,12 @@
 *etc...*
 
 *etc...*
-
+---
 ### 📚 Formação Acadêmica
 
 - 🎓 Bacharelado em Sistemas de Informação - Instituto Superior do Litoral do Paraná (ISULPAR)
 - 💻 Especialização em Desenvolvimento de Aplicativos Móveis - Pontifícia Universidade Católica do Paraná (PUCPR)
-··
-··
+
 
 ### 🚀 Tecnologias, Ferramentas e Linguagens
 

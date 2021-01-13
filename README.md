@@ -10,6 +10,7 @@
 *etc...*
 
 *etc...*
+
 ---
 
 ### 📚 Formação Acadêmica

@@ -31,6 +31,10 @@
 <code><img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+<code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+<code><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+
 ---
 
 

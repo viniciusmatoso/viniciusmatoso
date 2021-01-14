@@ -1,5 +1,7 @@
 ## Olá Visitante! <img src="https://raw.githubusercontent.com/viniciusmatoso/viniciusmatoso/main/hey.gif" width="32px">
 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/marcus-vinicius-a-matoso/)
+[![followersGit](https://img.shields.io/github/followers/viniciusmatoso?style=social)](https://github.com/viniciusmatoso)
 
 ##### *Meu nome é Marcus Vinícius, possuo 24 anos. Atualmente sou Programador Android e curso pós-graduação na área **mobile**...*
 
@@ -24,9 +26,6 @@
 ---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusmatoso&show_icons=true&locale=en" alt="Marcus Vinicíus Alves Matoso" />
-
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/marcus-vinicius-a-matoso/)
-[![followersGit](https://img.shields.io/github/followers/viniciusmatoso?style=social)](https://github.com/viniciusmatoso)
 
 
 

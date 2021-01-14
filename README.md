@@ -10,8 +10,7 @@
 - 👨🏽‍💻 Atualmente estou trabalhando como programador Android e nos meus projetos inacabados!!!
 - 📚 Cursando e estudando pós-graduação na área mobile.
 - 🌱 Estou aprendendo desenvolvimento iOS e desenvolvimento hibrido com Flutter!
-
-
+- ⭐ Meus hobbys atuais são: jogar online, andar de skate, ouvir músicas, assistir filmes, séries e animes.
 
 ---
 

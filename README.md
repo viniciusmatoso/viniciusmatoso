@@ -31,6 +31,7 @@
 <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+<code><img src="https://www.vectorlogo.zone/logos/bracketsio/bracketsio-ar21.svg"></code>
 
 ---
 

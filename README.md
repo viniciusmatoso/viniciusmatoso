@@ -23,6 +23,9 @@
 <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusmatoso&show_icons=true&locale=en" alt="Adriano Leite da Silva" />
 
 
 

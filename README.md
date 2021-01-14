@@ -3,7 +3,9 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/marcus-vinicius-a-matoso/)
 [![followersGit](https://img.shields.io/github/followers/viniciusmatoso?style=social)](https://github.com/viniciusmatoso)
 
-##### *Meu nome é Marcus Vinícius, possuo 24 anos. Atualmente sou Programador Android e curso pós-graduação na área **mobile**...*
+#### **O que estou fazendo no momento❓**
+
+
 
 ---
 
@@ -25,9 +27,9 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusmatoso&show_icons=true&locale=en" alt="Marcus Vinicíus Alves Matoso" /><code><img src="https://camo.githubusercontent.com/2bfe62d89efdc482d3fc7fd0c92e053814b8ec6c/68747470733a2f2f36362e6d656469612e74756d626c722e636f6d2f65353435393561336463386364656330393436323462643765323961376461382f74756d626c725f6e3968666e71366e5247317461303769386f315f3530302e676966"></code>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusmatoso&show_icons=true&locale=en" alt="Marcus Vinicíus Alves Matoso" />
 
-
+<!-- <code><img src="https://camo.githubusercontent.com/2bfe62d89efdc482d3fc7fd0c92e053814b8ec6c/68747470733a2f2f36362e6d656469612e74756d626c722e636f6d2f65353435393561336463386364656330393436323462643765323961376461382f74756d626c725f6e3968666e71366e5247317461303769386f315f3530302e676966"></code>>
 
 
 

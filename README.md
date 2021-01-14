@@ -7,8 +7,9 @@
 
 <code><img src="https://camo.githubusercontent.com/2bfe62d89efdc482d3fc7fd0c92e053814b8ec6c/68747470733a2f2f36362e6d656469612e74756d626c722e636f6d2f65353435393561336463386364656330393436323462643765323961376461382f74756d626c725f6e3968666e71366e5247317461303769386f315f3530302e676966" align="right" width="50%"></code>
 
-- Atualmente estou trabalhando como programador Android e nos meus projetos inacabados!!!
-- 
+- 👨🏽‍💻 Atualmente estou trabalhando como programador Android e nos meus projetos inacabados!!!
+- 📚 Cursando e estudando pós-graduação na área mobile.
+- 🌱 Estou aprendendo desenvolvimento iOS e desenvolvimento hibrido com Flutter!
 
 
 

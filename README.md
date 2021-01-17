@@ -1,6 +1,5 @@
 ## Olá Visitante! <img src="https://raw.githubusercontent.com/viniciusmatoso/viniciusmatoso/main/hey.gif" width="32px">
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/marcus-vinicius-a-matoso/)
 [![followersGit](https://img.shields.io/github/followers/viniciusmatoso?style=social)](https://github.com/viniciusmatoso)
 ![viewsGit](https://komarev.com/ghpvc/?username=viniciusmatoso)
 

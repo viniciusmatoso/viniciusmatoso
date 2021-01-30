@@ -14,7 +14,7 @@ No momento presente, tenho focado bastante na área de **Desenvolvimento Web e M
 - 📚 Cursando e estudando pós-graduação na área mobile.
 - 🌱 Estou aprendendo desenvolvimento iOS e desenvolvimento hibrido com Flutter!
 - ⭐ Meus hobbys atuais são: jogar online, andar de skate, ouvir músicas, assistir filmes, séries e animes.
-- 📫 Você pode entrar em contato comigo: marcus_matoso@hotmail.com
+- 📖 Recentemente tenho iniciado leituras nos temas de Arquitetura de Software e *Design Patters* (Padrões de Projeto).
 
 ---
 

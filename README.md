@@ -6,16 +6,6 @@
 Me chamo **Marcus Vinícius Alves Matoso**, possuo 24 anos de idade e sou apaixonado por **tecnologia!** 
 No momento presente, tenho focado bastante na área de **Desenvolvimento Web e Mobile**, a qual tenho interesse e tem me deixado muito entusiasmado.
 
-### **O que estou fazendo atualmente?**
-
-<img src="https://camo.githubusercontent.com/2bfe62d89efdc482d3fc7fd0c92e053814b8ec6c/68747470733a2f2f36362e6d656469612e74756d626c722e636f6d2f65353435393561336463386364656330393436323462643765323961376461382f74756d626c725f6e3968666e71366e5247317461303769386f315f3530302e676966" align="right" width="40%">
-
-- 👨🏽‍💻 Atualmente estou trabalhando como programador Android e nos meus projetos inacabados!!!
-- 📚 Cursando e estudando pós-graduação na área mobile.
-- 🌱 Estou aprendendo desenvolvimento iOS e desenvolvimento hibrido com Flutter!
-- ⭐ Meus hobbys atuais são: jogar online, andar de skate, ouvir músicas, assistir filmes, séries e animes.
-- 📖 Recentemente iniciei leituras nos temas de Arquitetura de Software e *Design Patters* (Padrões de Projeto).
-
 ---
 
 ### 🚀 Tecnologias, Ferramentas e Linguagens

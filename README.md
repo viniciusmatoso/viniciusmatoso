@@ -3,7 +3,7 @@
 [![followersGit](https://img.shields.io/github/followers/viniciusmatoso?style=social)](https://github.com/viniciusmatoso)
 ![viewsGit](https://komarev.com/ghpvc/?username=viniciusmatoso)
 
-Me chamo **Marcus Vinícius Alves Matoso**, possuo 24 anos de idade e sou apaixonado por **tecnologia!** 
+Me chamo **Marcus Vinícius Alves Matoso**, possuo 25 anos de idade e sou apaixonado por **tecnologia!** 
 No momento presente, tenho focado bastante na área de **Desenvolvimento Web e Mobile**, a qual tenho interesse e tem me deixado muito entusiasmado.
 
 ---

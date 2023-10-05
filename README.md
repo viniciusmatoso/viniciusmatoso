@@ -12,7 +12,7 @@
 <div align="center">
   
   **Me chamo Marcus Vinícius, atualmente meu foco é continuar trabalhando como Desenvolvedor Android e também com Mobile em geral. 
-  A longo prazo tenho o objetivo e interesse de atuar na área de Arquitetura e Engenharia de Software 👨‍💻**
+  A longo prazo tenho interesse de atuar na área de Arquitetura e Engenharia de Software 👨‍💻**
 
 
   

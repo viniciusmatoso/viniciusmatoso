@@ -11,16 +11,16 @@
 
 <div align="center">
   
-  **Me chamo Marcus Vinícius, atualmente meu foco é continuar trabalhando como Desenvolvedor Android e também com Mobile em geral. 
-  A longo prazo tenho interesse de atuar na área de Arquitetura e Engenharia de Software 👨‍💻**
-
-
+  **Me chamo Marcus Vinícius, atualmente meu foco é continuar trabalhando como Desenvolvedor Android e também com Mobile em geral.**
   
+  **A longo prazo tenho interesse de atuar na área de Arquitetura e Engenharia de Software 👨‍💻** 
 </div>
 
 ---
 
 <div align="center">
+
+**Principais Linguagens e Tecnologias**
 
  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,6 +41,7 @@
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+ ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 </div>
 
 <div align="center">

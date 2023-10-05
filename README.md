@@ -2,29 +2,10 @@
 
 [![followersGit](https://img.shields.io/github/followers/viniciusmatoso?style=social)](https://github.com/viniciusmatoso)
 ![viewsGit](https://komarev.com/ghpvc/?username=viniciusmatoso)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-vinicius-a-matoso/)
 
 Me chamo **Marcus Vinícius Alves Matoso**, possuo 25 anos de idade e sou apaixonado por **tecnologia!** 
 No momento presente, tenho focado bastante na área de **Desenvolvimento Web e Mobile**, a qual tenho interesse e tem me deixado muito entusiasmado.
-
----
-
-### 🚀 Tecnologias, Ferramentas e Linguagens
-
-<code><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/bracketsio/bracketsio-ar21.svg"></code>
 
 ---
 

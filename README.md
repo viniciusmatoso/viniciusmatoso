@@ -11,7 +11,7 @@
 
 <div align="center">
   
-  **Me chamo Marcus Vinícius, atualmente sou um Desenvolvedor Android e aspirante a Engenheiro de Software 👨‍💻**
+  **Me chamo Marcus Vinícius, atualmente sou Desenvolvedor Android e aspirante a Engenheiro de Software 👨‍💻**
 </div>
 
 ---

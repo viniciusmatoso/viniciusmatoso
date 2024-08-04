@@ -10,13 +10,6 @@
 </div>
 
 <div align="center">
-  
-  **Me chamo Marcus Vinícius, atualmente sou Desenvolvedor Android e aspirante a Engenheiro de Software 👨‍💻**
-</div>
-
----
-
-<div align="center">
 
 **Principais Linguagens e Tecnologias**
 
